@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on  [101INFOTECH][101infotech]
 - 🌱 I’m currently learning everything🤣
 - 💬 Ask me about anything related to programming.
-- 📫 How to reach me: You Can Message  Me On Facebook [Aditya]
+- 📫 How to reach me: You Can Message  Me On Facebook [facebook]
 - ⚡ Fun fact: I hate coding he he i was just joking Actually I love coding.
 
 ### Connect with me:
@@ -44,4 +44,13 @@
 <br />
 
 ---
+
+### 📺 Latest YouTube Videos
+
+<!-- YOUTUBE:START -->
+- [Laravel For Begineer](https://www.youtube.com/watch?v=zckH4xalOns&list=PL4cUxeGkcC9hL6aCFKyagrT1RCfVN4w2Q&ab_channel=TheNetNinja)
+- [Code Review](https://www.youtube.com/watch?v=ZigTkUispLw&list=PLdXLsjL7A9k0fZJjRni_DcocZp6hWZ6GB&ab_channel=LaravelDaily)
+- [Livewire For Beigner](https://www.youtube.com/watch?v=HWTF-oi70e4&ab_channel=Bitfumes)
+- [ CODE LIKE A PRO 2022](https://www.youtube.com/watch?v=ZigTkUispLw&list=PLdXLsjL7A9k0fZJjRni_DcocZp6hWZ6GB&ab_channel=LaravelDaily)
+<!-- YOUTUBE:END --
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=7aditya7&theme=radical)
