@@ -69,5 +69,5 @@
 </details>
 
 ![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=7aditya7&count_private=true&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=7aditya7&layout=compact&theme=radical)](https://github.com/7aditya7/github-readme-stats)
-[![Aditya's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=7aditya7)](https://github.com/7aditya7/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=7aditya7&theme=radical)](https://github.com/7aditya7/github-readme-stats)
+[![Aditya's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=7aditya7)](https://github.com/anuraghazra/github-readme-stats)
