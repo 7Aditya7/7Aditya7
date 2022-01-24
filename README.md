@@ -1,4 +1,4 @@
-### Hi there, I'm Aditya - aka [backendDEVELOPER][website] 👋  👋
+### Hi there, I'm Aditya - aka [codeSTACKr][website] 👋
 
 
 - 🔭 I’m currently working on  [101INFOTECH][101infotech]
