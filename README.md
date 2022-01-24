@@ -72,5 +72,5 @@
 <br />
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=7aditya7&theme=radical)](https://github.com/7aditya7/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=7aditya7&theme=radical&private=true)](https://github.com/7aditya7/github-readme-stats)
 <br />
