@@ -67,8 +67,8 @@
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=7aditya7&show_icons=true&hide_border=true" />
 
 </details>
----
+
 ![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=7aditya7&count_private=true&show_icons=true&theme=radical)
----
+<br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=7aditya7&theme=radical)](https://github.com/7aditya7/github-readme-stats)
----
+<br />
