@@ -5,7 +5,7 @@
 
 
 - 🔭 I’m currently working on  [101INFOTECH][101infotech]
-- 🌱 I’m currently learning everything🤣
+- 🌱 I’m currently learning everything�.
 - 💬 Ask me about anything related to programming.
 - 📫 How to reach me: You Can Message  Me On Facebook [facebook]
 - ⚡ Fun fact: I hate coding he he i was just joking Actually I love coding.
@@ -57,12 +57,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#46](https://github.com/codeSTACKr/video-source-code-create-nft-collection/issues/46) in [codeSTACKr/video-source-code-create-nft-collection](https://github.com/codeSTACKr/video-source-code-create-nft-collection)
-2. ❗️ Closed issue [#46](https://github.com/codeSTACKr/video-source-code-create-nft-collection/issues/46) in [codeSTACKr/video-source-code-create-nft-collection](https://github.com/codeSTACKr/video-source-code-create-nft-collection)
-3. ❗️ Closed issue [#45](https://github.com/codeSTACKr/video-source-code-create-nft-collection/issues/45) in [codeSTACKr/video-source-code-create-nft-collection](https://github.com/codeSTACKr/video-source-code-create-nft-collection)
-4. 🗣 Commented on [#45](https://github.com/codeSTACKr/video-source-code-create-nft-collection/issues/45) in [codeSTACKr/video-source-code-create-nft-collection](https://github.com/codeSTACKr/video-source-code-create-nft-collection)
-5. ❗️ Closed issue [#44](https://github.com/codeSTACKr/video-source-code-create-nft-collection/issues/44) in [codeSTACKr/video-source-code-create-nft-collection](https://github.com/codeSTACKr/video-source-code-create-nft-collection)
-<!--END_SECTION:activity-->
+
 
 </details>
 
