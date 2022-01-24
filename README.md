@@ -48,9 +48,28 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Laravel For Begineer](https://www.youtube.com/watch?v=zckH4xalOns&list=PL4cUxeGkcC9hL6aCFKyagrT1RCfVN4w2Q&ab_channel=TheNetNinja)
-- [Code Review](https://www.youtube.com/watch?v=ZigTkUispLw&list=PLdXLsjL7A9k0fZJjRni_DcocZp6hWZ6GB&ab_channel=LaravelDaily)
-- [Livewire For Beigner](https://www.youtube.com/watch?v=HWTF-oi70e4&ab_channel=Bitfumes)
+- [Laravel Daily](https://www.youtube.com/channel/UCTuplgOBi6tJIlesIboymGA)
 - [ CODE LIKE A PRO 2022](https://www.youtube.com/watch?v=ZigTkUispLw&list=PLdXLsjL7A9k0fZJjRni_DcocZp6hWZ6GB&ab_channel=LaravelDaily)
 <!-- YOUTUBE:END --
+
+
+<details>
+  <summary>:zap: Recent GitHub Activity</summary>
+  
+<!--START_SECTION:activity-->
+1. 🗣 Commented on [#46](https://github.com/codeSTACKr/video-source-code-create-nft-collection/issues/46) in [codeSTACKr/video-source-code-create-nft-collection](https://github.com/codeSTACKr/video-source-code-create-nft-collection)
+2. ❗️ Closed issue [#46](https://github.com/codeSTACKr/video-source-code-create-nft-collection/issues/46) in [codeSTACKr/video-source-code-create-nft-collection](https://github.com/codeSTACKr/video-source-code-create-nft-collection)
+3. ❗️ Closed issue [#45](https://github.com/codeSTACKr/video-source-code-create-nft-collection/issues/45) in [codeSTACKr/video-source-code-create-nft-collection](https://github.com/codeSTACKr/video-source-code-create-nft-collection)
+4. 🗣 Commented on [#45](https://github.com/codeSTACKr/video-source-code-create-nft-collection/issues/45) in [codeSTACKr/video-source-code-create-nft-collection](https://github.com/codeSTACKr/video-source-code-create-nft-collection)
+5. ❗️ Closed issue [#44](https://github.com/codeSTACKr/video-source-code-create-nft-collection/issues/44) in [codeSTACKr/video-source-code-create-nft-collection](https://github.com/codeSTACKr/video-source-code-create-nft-collection)
+<!--END_SECTION:activity-->
+
+</details>
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=7aditya7&show_icons=true&hide_border=true" />
+
+</details>
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=7aditya7&theme=radical)
