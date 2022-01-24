@@ -11,4 +11,4 @@
 [101infotech]: https://101infotechnp.com
 [Aditya]: https://www.facebook.com/aditya.khadka.180/
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username= &theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=7aditya7 &theme=radical)
