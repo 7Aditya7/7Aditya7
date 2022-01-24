@@ -69,3 +69,4 @@
 </details>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=7aditya7&theme=radical)
+![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=7aditya7&count_private=true)
