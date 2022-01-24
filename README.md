@@ -50,9 +50,9 @@
 <!-- YOUTUBE:START -->
 - [Laravel Daily](https://www.youtube.com/channel/UCTuplgOBi6tJIlesIboymGA)
 - [ CODE LIKE A PRO 2022](https://www.youtube.com/watch?v=ZigTkUispLw&list=PLdXLsjL7A9k0fZJjRni_DcocZp6hWZ6GB&ab_channel=LaravelDaily)
-<!-- YOUTUBE:END --
+<!-- YOUTUBE:END -->
 
-
+---
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
   
@@ -72,4 +72,5 @@
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=7aditya7&show_icons=true&hide_border=true" />
 
 </details>
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=7aditya7&theme=radical)
