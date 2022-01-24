@@ -68,5 +68,6 @@
 
 </details>
 
+![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=7aditya7&count_private=true&theme=radical)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=7aditya7&theme=radical)
-![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=7aditya7&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
