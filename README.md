@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning everything�.
 - 💬 Ask me about anything related to programming.
 - 📫 How to reach me: You Can Message  Me On [Facebook].
-- ⚡ Fun fact: I hate coding he he i was just joking Actually I love coding.
+- ⚡ Fun fact: I love myself.
 
 ### Connect with me:
 
