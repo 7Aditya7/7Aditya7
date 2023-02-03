@@ -4,7 +4,7 @@
 ## I'm a Developer and Student!!
 
 
-- 🔭 I’m cofounder of  [101INFOTECH][101infotech]
+- 🔭 I’m Co Founder of  [101INFOTECH][101infotech]
 - 🌱 I’m currently learning everything�.
 - 💬 Ask me about anything related to programming.
 - 📫 How to reach me: You Can Message  Me On [Facebook].
