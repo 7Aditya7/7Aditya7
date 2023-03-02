@@ -1,4 +1,4 @@
-### Hi there, I'm Aditya Khadka 👋 
+### Hi there, I'm Aditya Khadka .👋 
 
 
 ## I'm a Developer and Student!!
