@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aditya Khadka</h1>
-<h3 align="center">I am a motivated web developer with over 3 years of experience, specializing in backend development using Laravel. I have completed more than 40 projects throughout my career, usually collaborating with teams of 5 to 6 members. I also have a solid background in WordPress development and expertise in frontend technologies like Vue.js, HTML, CSS, and JavaScript. My adaptability enables me to meet organizational needs and achieve tangible outcomes.</h3>
+<h4 align="center">I am a motivated web developer with over 3 years of experience, specializing in backend development using Laravel. I have completed more than 40 projects throughout my career, usually collaborating with teams of 5 to 6 members. I also have a solid background in WordPress development and expertise in frontend technologies like Vue.js, HTML, CSS, and JavaScript. My adaptability enables me to meet organizational needs and achieve tangible outcomes.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=7aditya7&label=Profile%20views&color=0e75b6&style=flat" alt="7aditya7" /> </p>
 
