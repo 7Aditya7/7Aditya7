@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aditya Khadka</h1>
 <h3 align="center">I am a motivated web developer with over 3 years of experience, specializing in backend development using Laravel. I have completed more than 40 projects throughout my career, usually collaborating with teams of 5 to 6 members. I also have a solid background in WordPress development and expertise in frontend technologies like Vue.js, HTML, CSS, and JavaScript. My adaptability enables me to meet organizational needs and achieve tangible outcomes.</h3>
-<img align="right" alt="coding" width="400" src="[[[https://cdn.dribbble.com/users/1857592/screenshots/3848396/character-typing.gif](https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966)">
-<p align="left"> <img src="https://jumpshare.com/s/OWb1HrGcMBaSpv9bkxcv" alt="7aditya7" /> </p>
+<img align="right" alt="coding" width="400" src="https://jumpshare.com/s/OWb1HrGcMBaSpv9bkxcv">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=7aditya7&label=Profile%20views&color=0e75b6&style=flat" alt="7aditya7" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=7aditya7" alt="7aditya7" /></a> </p>
 
