@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **khadkaaditya983@gmail.com**
 
-- 📄 Know about my experiences [https://www.adityakhadka.com.np/AdityaKhadka.pdf](https://www.adityakhadka.com.np/AdityaKhadka.pdf)
+- 📄 Know about my experiences [https://www.adityakhadka.com.np/AdityaKhadka.pdf](https://www.adityakhadka.com.np/#resume)
 
 - ⚡ Fun fact **Why do programmers prefer dark mode? Because the light attracts bugs!**
 
